@@ -34,3 +34,10 @@ A FastAPI backend to **upload products via CSV**, **list products**, and **searc
 ```bash
 git clone <repo_url>
 cd product-uploader
+Install dependencies (pip install fastapi uvicorn)
+
+Run command (uvicorn main:app --reload)
+
+API endpoints (/upload-csv, /products, /search) with sample requests/responses
+
+Optional: mention /docs for testing
